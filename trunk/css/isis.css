@@ -1,0 +1,16 @@
+.objectdroppable {
+	width: 280px;
+	height: 25px;
+	border: 1px dashed;
+	border-color: #CCCCCC;
+	display:table-cell;
+	vertical-align: middle;
+}
+
+
+
+.objectdroppable p {
+	margin-top: 5px;
+	margin-left: 3px;
+	color: gray;
+}
